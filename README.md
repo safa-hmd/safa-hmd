@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**safa-hmd/safa-hmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Safa Hamdi
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at ESPRIT  
+💻 Full-Stack Developer  
+🚀 Passionate about Symfony, Spring Boot & Angular  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Tools
+- Symfony / PHP
+- Spring Boot / Java
+- Angular
+- MySQL
+- Git & GitHub
+- REST APIs
+- Spring Security
+- Azure & CI/CD
+
+---
+
+## 📌 Featured Projects
+
+### ⚽ StreetLeague
+Full-stack sports platform for managing amateur sports communities with team management, live scores, ELO ranking, and AI-based field recommendations.
+
+**Tech Stack:** Spring Boot, Angular, MySQL, Spring Security, Azure, CI/CD
+
+---
+
+### 🛒 EcoMarket
+E-commerce web application built with Symfony including authentication, product management, orders, and role-based access control.
+
+**Tech Stack:** Symfony, PHP, MySQL, Twig
+
+---
+
+### 🍃 Gout Naturel
+Food products management application with admin/client spaces built using Spring Boot and Angular.
+
+**Tech Stack:** Spring Boot, Angular, MySQL
+
+---
+
+## 📫 Contact Me
+- LinkedIn: linkedin.com/in/safa-hamdi-09332235a
+- Email: Safa.Hamdi@esprit.tn
