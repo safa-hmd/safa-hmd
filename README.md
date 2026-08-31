@@ -1,233 +1,73 @@
-# Hi 👋 I'm Safa Hamdi
+# Hi, I'm Safa Hamdi 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Engineering+Student;Spring+Boot+%7C+Angular+%7C+Symfony;AI+%7C+Machine+Learning+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Engineering+Student+%40+ESPRIT;Angular+%7C+Spring+Boot+%7C+FastAPI;AI+%7C+DevOps+%7C+Cloud" />
 
-🎓 Computer Engineering Student at **ESPRIT**  
-💻 Full-Stack Developer  
-🤖 Interested in Artificial Intelligence & Machine Learning  
-☁️ Interested in Cloud, DevOps & Software Engineering  
+🎓 4th-year Computer Engineering student (Software Engineering) at **ESPRIT**, Tunisia
+💻 Full-stack developer — Angular · Spring Boot · MySQL, with Python/FastAPI for AI microservices
+🤖 Growing focus on integrating AI/ML into full-stack products
+☁️ Learning DevOps: CI/CD, Docker, Azure
 
-I enjoy building web applications, intelligent systems and scalable software solutions using modern technologies.
-
----
-
-## 🚀 Currently Working On
-
-### 🤖 HireVision AI
-
-An intelligent recruitment and interview preparation platform powered by Artificial Intelligence.
-
-The platform helps candidates:
-
-- 📄 Analyze their CV
-- 🔍 Match their profile with job offers
-- 🧠 Perform semantic similarity analysis
-- 🤖 Generate personalized interview questions
-- 📊 Analyze interview performance
-- 💡 Receive personalized feedback
-
-**Technologies:**  
-`Spring Boot` `Angular` `Python` `Sentence Transformers` `Random Forest` `Docker` `GitHub Actions` `Azure` `MySQL`
+<p align="left">
+  <a href="https://linkedin.com/in/safa-hamdi-09332235a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Safa.Hamdi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-# 🛠️ Technologies & Tools
+##  Featured Project — HireVision AI
 
-## 💻 Programming Languages
+An AI-powered recruitment & interview-prep platform: candidates upload a CV, get matched to job offers via semantic similarity, then practice with AI-generated interview questions and receive performance feedback.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+- CV parsing & job-offer matching (Sentence Transformers, cosine similarity, Random Forest scoring)
+- AI-generated interview questions + voice/behavior analysis
+- Spring Boot REST backend, Angular front & admin backoffice, Python FastAPI AI microservice
+- Dockerized, CI/CD via GitHub Actions, deployed on Azure Container Apps
 
----
+**Stack:** `Spring Boot` `Angular` `Python (FastAPI)` `Sentence Transformers` `Random Forest` `Docker` `GitHub Actions` `Azure` `MySQL`
 
-## ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
-- REST APIs
-- Spring Data JPA
-- Hibernate
-- Spring Security
-- Microservices
-- MVC Architecture
+🔗 [Repository](https://github.com/safa-hmd/HireVision-ai) · 🌐 [Live Demo](https://hirevision-frontend.gentlebay-58ff12f9.swedencentral.azurecontainerapps.io/frontoffice/home)
 
 ---
 
-## 🎨 Frontend
+## 🛠️ Tech Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Languages:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
----
+**Backend:** ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+REST APIs · Spring Data JPA · Hibernate · Spring Security · Microservices
 
-## 🤖 AI & Machine Learning
+**Frontend:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**AI / ML:** NLP · Sentence Transformers · Text Embeddings · Cosine Similarity · Random Forest · LLM integration (Groq)
 
-- Natural Language Processing (NLP)
-- Sentence Transformers
-- Text Embeddings
-- Cosine Similarity
-- Semantic Matching
-- Random Forest
-- Machine Learning
-- LLM Integration
-- AI-powered recommendations
+**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**DevOps & Cloud:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🗄️ Databases
+## ⭐ Other Projects
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- Docker & Docker Desktop
-- GitHub Actions
-- CI/CD
-- Azure Container Apps
-- Azure Database for MySQL
-- Linux / Ubuntu
+| Project | Description | Stack |
+|---|---|---|
+| **StreetLeague** | Amateur sports management: teams, matches, ELO ranking, AI field recommendations | Spring Boot · Angular · MySQL · Azure |
+| **EcoMarket** | E-commerce platform: products, orders, roles, events module | Symfony · PHP · MySQL · Twig |
+| **Gout Naturel** | Food-products platform with client & admin spaces | Spring Boot · Angular · MySQL |
+| **Souk El Fen** | Fictional Tunisian artisanal marketplace, front-end only | HTML · CSS · JS |
 
 ---
 
-# ⭐ Featured Projects
+## 📊 GitHub Stats
 
-## 🤖 HireVision AI
-
-### Intelligent Recruitment & Interview Preparation Platform
-
-HireVision AI is an intelligent recruitment platform that combines **Artificial Intelligence, Natural Language Processing and Machine Learning** to help candidates prepare for job interviews.
-
-### 🔥 Main Features
-
-- 📄 CV extraction and analysis
-- 🔍 Job offer analysis
-- 🧠 Semantic matching between CV and job offers
-- 🔢 Text embeddings using Sentence Transformers
-- 📐 Cosine Similarity
-- 🌲 Candidate classification using Random Forest
-- 🤖 Personalized interview questions
-- 📊 Interview analysis
-- 💡 Personalized feedback
-- 🔗 AI microservice architecture
-- 🚀 Dockerized deployment
-- ⚙️ CI/CD pipeline
-
-### 🧰 Tech Stack
-
-`Spring Boot` `Angular` `Python` `Sentence Transformers`  
-`Random Forest` `Docker` `GitHub Actions` `Azure Container Apps` `MySQL`
-
-🔗 **Repository:**  
-https://github.com/safa-hmd/HireVision-ai
-
-🌐 **Live Demo:**  
-https://hirevision-frontend.gentlebay-58ff12f9.swedencentral.azurecontainerapps.io/frontoffice/home
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=safa-hmd&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=safa-hmd&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## ⚽ StreetLeague
+## 📫 Contact
 
-### Amateur Sports Management Platform
+💼 [LinkedIn](https://linkedin.com/in/safa-hamdi-09332235a) · 📧 [Safa.Hamdi@esprit.tn](mailto:Safa.Hamdi@esprit.tn)
 
-A full-stack platform designed to manage amateur sports communities and organize sporting activities.
-
-### Main Features
-
-- 👥 Team management
-- ⚽ Match management
-- 🏆 ELO ranking system
-- 📊 Leaderboards
-- 🏋️ Training sessions
-- 🤖 AI-based field recommendations
-
-### Tech Stack
-
-`Spring Boot` `Angular` `MySQL` `Spring Security` `Azure` `CI/CD`
-
----
-
-## 🛒 EcoMarket
-
-### E-commerce Web Application
-
-An e-commerce platform developed with Symfony for managing products, orders and users.
-
-### Main Features
-
-- 🔐 Authentication
-- 📦 Product management
-- 🛒 Order management
-- 🎉 Events module
-- 👤 Role-based access control
-
-### Tech Stack
-
-`Symfony` `PHP` `MySQL` `Twig`
-
----
-
-## 🍃 Gout Naturel
-
-### Food Products Management Platform
-
-A web application with separate client and administrator spaces.
-
-### Main Features
-
-- 🔐 Authentication
-- 🛍️ Product catalogue
-- 📊 Admin dashboard
-- 🔗 REST API integration
-
-### Tech Stack
-
-`Spring Boot` `Angular` `MySQL`
-
----
-
-# 🎓 Education
-
-### ESPRIT – École Supérieure Privée d'Ingénierie et de Technologies
-
-🎓 **Computer Engineering – Engineering Cycle**
-
----
-
-# 📊 GitHub Statistics
-
-![Safa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safa-hmd&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=safa-hmd&theme=tokyonight&hide_border=true)
-
----
-
-# 📫 Connect With Me
-
-💼 **LinkedIn**  
-https://linkedin.com/in/safa-hamdi-09332235a
-
-📧 **Email**  
-Safa.Hamdi@esprit.tn
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ Merci de votre visite !
