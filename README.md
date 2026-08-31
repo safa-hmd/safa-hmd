@@ -1,102 +1,193 @@
-# Hi 👋 I'm Safa Hamdi
+# Hi I'm Safa Hamdi
 
-![](https://komarev.com/ghpvc/?username=safa-hmd&color=blue)
+🎓 **Computer Engineering Student at ESPRIT**
+💻 **Full-Stack Developer**
+🤖 Interested in **AI, Software Engineering & Cloud Technologies**
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+Developer;Symfony+Developer;Spring+Boot+Enthusiast;Angular+Developer" />
+I build web applications and intelligent software solutions using **Java, Spring Boot, Angular, PHP, Symfony and Python**.
 
-🎓 Computer Engineering Student at ESPRIT  
-💻 Full-Stack Developer  
-🚀 Passionate about Symfony, Spring Boot & Angular  
-
----
-
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+Currently looking for opportunities to grow as a **Full-Stack Developer** and work on challenging software projects.
 
 ---
 
-## 🛠 Technologies & Tools
+## 🚀 Currently Working On
 
-### 💻 Backend
-- Symfony / PHP
-- Spring Boot / Java
-- REST APIs
-- Spring Security
+🔹 **HireVision AI** — An intelligent recruitment and interview preparation platform powered by Artificial Intelligence.
+
+🔹 Exploring **AI integration, microservices, cloud deployment and CI/CD**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+
+### ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge\&logo=symfony\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+
+* REST APIs
+* Spring Data JPA / Hibernate
+* Spring Security
+* Microservices
 
 ### 🎨 Frontend
-- Angular
-- HTML
-- CSS
-- JavaScript
-- TypeScript
 
-### 🗄 Databases
-- MySQL
-- Oracle
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### ⚙ Tools & Platforms
-- Git & GitHub
-- Postman
-- Linux (Ubuntu)
-- Azure & CI/CD
+### 🤖 AI & Machine Learning
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-## 📌 Featured Projects
+* Sentence Transformers
+* Text Embeddings
+* Cosine Similarity
+* Natural Language Processing
+* Random Forest
+* LLM integration
+* AI-powered recommendation & matching
 
-### ⚽ StreetLeague
-Full-stack sports platform for managing amateur sports communities with:
-- Team management
-- Live scores
-- ELO ranking system
-- Training sessions
-- AI-based field recommendations
+### 🗄️ Databases
 
-**Tech Stack:** Spring Boot, Angular, MySQL, Spring Security, Azure, CI/CD
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
----
+### ☁️ DevOps & Cloud
 
-### 🛒 EcoMarket
-E-commerce web application built with Symfony including:
-- Authentication system
-- Product management
-- Orders management
-- Events module
-- Role-based access control
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-**Tech Stack:** Symfony, PHP, MySQL, Twig
+* Docker & Docker Desktop
+* GitHub Actions
+* CI/CD
+* Azure Container Apps
+* Azure Database for MySQL
+* Linux / Ubuntu
 
 ---
 
-### 🍃 Gout Naturel
-Food products management application with admin/client spaces including:
-- Authentication system
-- Products catalog
-- Admin dashboard
-- REST API integration
+# ⭐ Featured Projects
 
-**Tech Stack:** Spring Boot, Angular, MySQL
+## 🤖 HireVision AI
+
+**Intelligent Recruitment & Interview Preparation Platform**
+
+HireVision is an AI-powered platform designed to help candidates analyze job offers, evaluate CV compatibility and prepare personalized technical interviews.
+
+### Key Features
+
+* 📄 CV analysis and information extraction
+* 🧠 Semantic matching between CVs and job offers
+* 🔢 Text embeddings using Sentence Transformers
+* 📐 Candidate/job similarity using Cosine Similarity
+* 🌲 Candidate classification using Random Forest
+* 🤖 AI-generated personalized interview questions
+* 📊 Interview analysis and feedback
+* 🔗 Microservice-based architecture
+* 🚀 Dockerized deployment with CI/CD
+
+**Tech Stack:**
+`Spring Boot` `Angular` `Python` `Sentence Transformers` `Random Forest` `Docker` `GitHub Actions` `Azure Container Apps` `MySQL`
+
+🔗 **Repository:** https://github.com/safa-hmd/HireVision-ai
+
+🌐 **Live Demo:** https://hirevision-frontend.gentlebay-58ff12f9.swedencentral.azurecontainerapps.io/frontoffice/home
 
 ---
 
-## 📊 GitHub Stats
+## ⚽ StreetLeague
 
-![Safa's GitHub stats](https://github-readme-stats.vercel.app/api?username=safa-hmd&show_icons=true&theme=tokyonight)
+**Amateur Sports Management Platform**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safa-hmd&layout=compact&theme=tokyonight)
+A full-stack platform designed to manage amateur sports communities.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=safa-hmd&theme=tokyonight)
+### Features
 
+* Team management
+* Match management
+* Live scores
+* ELO ranking system
+* Training sessions
+* AI-based field recommendations
+
+**Tech Stack:**
+`Spring Boot` `Angular` `MySQL` `Spring Security` `Azure` `CI/CD`
 
 ---
 
-## 📫 Contact Me
+## 🛒 EcoMarket
 
-- 💼 LinkedIn: https://linkedin.com/in/safa-hamdi-09332235a
-- 📧 Email: Safa.Hamdi@esprit.tn
+**E-commerce Web Application**
+
+An e-commerce platform developed with Symfony.
+
+### Features
+
+* User authentication
+* Product management
+* Order management
+* Events module
+* Role-based access control
+
+**Tech Stack:**
+`Symfony` `PHP` `MySQL` `Twig`
 
 ---
+
+## 🍃 Gout Naturel
+
+**Food Products Management Platform**
+
+A web application providing separate client and administrator spaces.
+
+### Features
+
+* Authentication
+* Product catalogue
+* Admin dashboard
+* REST API integration
+
+**Tech Stack:**
+`Spring Boot` `Angular` `MySQL`
+
+---
+
+# 🎓 Education
+
+**ESPRIT – École Supérieure Privée d'Ingénierie et de Technologies**
+
+🎓 Computer Engineering — Engineering Cycle
+
+---
+
+# 📊 GitHub
+
+![Safa's GitHub stats](https://github-readme-stats.vercel.app/api?username=safa-hmd\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safa-hmd\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📫 Let's Connect
+
+💼 **LinkedIn:** https://linkedin.com/in/safa-hamdi-09332235a
+
+📧 **Email:** [Safa.Hamdi@esprit.tn](mailto:Safa.Hamdi@esprit.tn)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
+
