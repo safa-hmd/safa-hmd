@@ -2,19 +2,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Engineering+Student+%40+ESPRIT;Angular+%7C+Spring+Boot+%7C+FastAPI;AI+%7C+DevOps+%7C+Cloud" />
 
-🎓 4th-year Computer Engineering student (Software Engineering) at **ESPRIT**, Tunisia
+🎓 5th-year Computer Engineering student (Software Engineering) at **ESPRIT**, Tunisia
 💻 Full-stack developer — Angular · Spring Boot · MySQL, with Python/FastAPI for AI microservices
 🤖 Growing focus on integrating AI/ML into full-stack products
 ☁️ Learning DevOps: CI/CD, Docker, Azure
 
 <p align="left">
+  <a href="https://safa-hmd.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/safa-hamdi-09332235a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Safa.Hamdi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-##  Featured Project — HireVision AI
+## 🚀 Featured Project — HireVision AI
 
 An AI-powered recruitment & interview-prep platform: candidates upload a CV, get matched to job offers via semantic similarity, then practice with AI-generated interview questions and receive performance feedback.
 
@@ -68,6 +69,6 @@ REST APIs · Spring Data JPA · Hibernate · Spring Security · Microservices
 
 ## 📫 Contact
 
-💼 [LinkedIn](https://linkedin.com/in/safa-hamdi-09332235a) · 📧 [Safa.Hamdi@esprit.tn](mailto:Safa.Hamdi@esprit.tn)
+🌐 [Portfolio](https://safa-hmd.github.io/portfolio/) · 💼 [LinkedIn](https://linkedin.com/in/safa-hamdi-09332235a) · 📧 [Safa.Hamdi@esprit.tn](mailto:Safa.Hamdi@esprit.tn)
 
 ⭐ Merci de votre visite !
