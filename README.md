@@ -91,7 +91,6 @@ Food products management application with admin/client spaces including:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=safa-hmd&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=safa-hmd&theme=tokyonight)
 
 ---
 
